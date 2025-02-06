@@ -1,0 +1,7 @@
+setup.py
+AI_powered_student_academic_performance_prediction.egg-info/PKG-INFO
+AI_powered_student_academic_performance_prediction.egg-info/SOURCES.txt
+AI_powered_student_academic_performance_prediction.egg-info/dependency_links.txt
+AI_powered_student_academic_performance_prediction.egg-info/requires.txt
+AI_powered_student_academic_performance_prediction.egg-info/top_level.txt
+src/__init__.py
