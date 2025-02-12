@@ -1,5 +1,5 @@
 import sys
-from logger import logging
+from src.logger import logging
 def error_message_detail(error, error_detail: sys):
     _, _, tb = sys.exc_info()
     file_name = tb.tb_frame.f_code.co_filename
